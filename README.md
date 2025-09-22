@@ -1,6 +1,5 @@
 Integrantes: GEOVANE F. MONTEIRO, PAULO IAN D. G MENDES e RICARDO NICULAU GARCIA
 
-===================================================================================
 #
 
 📋 Sistema de Gestão de Projetos
@@ -82,6 +81,5 @@ java CadastroDeEquipeMain
 
    Login → Cadastro de Projetos → Cadastro de Pessoas → Inscrições → Relatórios
 
-===================================================================================
 ##
 Desenvolvido em Java Swing para gestão eficiente de projetos e equipes.
