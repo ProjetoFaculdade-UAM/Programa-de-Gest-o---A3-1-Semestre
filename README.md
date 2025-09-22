@@ -51,7 +51,7 @@ Pré-requisitos
 
 #
 🔄 Executar
-java CadastroDeEquipeMain
+ CadastroDeEquipeMain.java
 
 #
 👤 Primeiro Acesso
