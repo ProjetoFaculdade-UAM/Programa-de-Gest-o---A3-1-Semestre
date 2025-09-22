@@ -2,13 +2,16 @@ Integrantes: GEOVANE F. MONTEIRO, PAULO IAN D. G MENDES e RICARDO NICULAU GARCIA
 
 #
 
-📋 Sistema de Gestão de Projetos
+📋Gestão de Projetos
 
 Sistema desktop desenvolvido em Java para gerenciamento de projetos, equipes e pessoas, com controle de acesso e relatórios integrados.
 🚀 Funcionalidades
+
 🔐 Sistema de Autenticação
+  
    Login seguro com validação de credenciais
    Registro de novos usuários com validações
+   
    Usuário admin padrão: admin / admin123
 #
 📊 Módulos Principais
